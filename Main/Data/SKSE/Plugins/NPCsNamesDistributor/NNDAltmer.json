@@ -34,7 +34,9 @@
         }
     },
     "NND_Family": {
-        "NND_Chance": 40,
-        "NND_Any": ["Aldmeri","Aliaria","Arana Aldmeri","Areleth","Ateldil","Auralus","Blenwyth","Brightsteel","Corelanya","Culanarin","Direnni","Duure","Egun","Enruneldinion","Errinorne","Favrete","Firlamil","Galerion","Hilnore","Inecil","Itelnoril","Lloderion","Loganne","Nivulirel","Numralion","of Cloudrest","of Sunhold","Piryaden","Ravenwatch","Salolinwe","Softpetals","Spellslinger","Ternerben","the Angry","the Archivist","the Artificer","the Bad","the Bound","the Cavalier","the Faceless","the Fierce","the Hammer","the Incendiary","the Jester","the Magnificent","the Miffed","the Minstrel","the Nefarious","the Quick","the Scholar","the Sensational","the Smith","the Sour","the Undertaker","the Unscrupulous","the Untested","the Voracious","Two-Blades","Two-Spoons"]
+        "NND_Any": {
+            "NND_Chance": 40,
+            "NND_Names": ["Aldmeri","Aliaria","Arana Aldmeri","Areleth","Ateldil","Auralus","Blenwyth","Brightsteel","Corelanya","Culanarin","Direnni","Duure","Egun","Enruneldinion","Errinorne","Favrete","Firlamil","Galerion","Hilnore","Inecil","Itelnoril","Lloderion","Loganne","Nivulirel","Numralion","of Cloudrest","of Sunhold","Piryaden","Ravenwatch","Salolinwe","Softpetals","Spellslinger","Ternerben","the Angry","the Archivist","the Artificer","the Bad","the Bound","the Cavalier","the Faceless","the Fierce","the Hammer","the Incendiary","the Jester","the Magnificent","the Miffed","the Minstrel","the Nefarious","the Quick","the Scholar","the Sensational","the Smith","the Sour","the Undertaker","the Unscrupulous","the Untested","the Voracious","Two-Blades","Two-Spoons"]
+        }
     }
 }
