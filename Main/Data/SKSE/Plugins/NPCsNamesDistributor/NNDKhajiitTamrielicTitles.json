@@ -1,0 +1,49 @@
+{
+    "NND_Family": {
+        "NND_Male": {
+            "NND_Chance": 10,
+            "NND_Names": [
+                "Bad Swimmer","Basement-Dweller","Bentclaw","Bones","Bugtail",
+                "Careful-Steps","Chickenthief","Cinder-Tail","Climbs Trees","Cloud Snout","Cold-Eyes","Cooks Fine Things","Coppermane","Crack-Nose","Croak Throat",
+                "Deepswimmer","Dustyclaw",
+                "Eagle Eye","Ear-Carver","Eats-Spiders","Eye-Fancy",
+                "Fast-Claw","Filthwhisker","Firebreath","Fish-Smell","Fishbreath","Four-Toes","Freebooter",
+                "Grass-Eater","Greedy-Gut",
+                "Iron-Ear",
+                "Kha",
+                "Long-Tale","Longclaw","Lowtail",
+                "Milk Eyes","Moon-Seeker","Mothcatcher",
+                "Nibbletail",
+                "Oak-Eye","of the Silver Claw",
+                "Preens-Ears",
+                "Quickpaw","Quiet-Paws",
+                "Ragged Tail","Red-Ears","Redclaws","River-Breath","Runs-With-Sweets",
+                "Sea-Dreamer","Sharpclaw","Short-Leash","Silver-Claw","Silver-Paws","Silvertongue","Sleek-Fur","Soreheels","Splendid-Paws","Splinter-Paws","Split-Nose","Split-Tongue","Splitwhisker","Steelclaw","Stoneclaws","Stump Fingers","Sugar-Dance","Sugar-Tail",
+                "Tender Claw","Tender-Paws","the Agile","the Alarmist","the Ascendant","the Beachwalker","the Bold","the Boneweaver","the Broker","the Bull","the Bulwark","the Cannibal King","the Chipper","the Chopper","the Clean","the Dangerous","the Equivocal","the Forgotten","the Graveprowler","the Iron Hearted","the Irreverent","the Keeneye","the Liar","the Magnificent","the Moonstruck","the Overcautious","the Peeler","the Reaper","the Short","the Shrine Keeper","the Sibilant","the Sleek","the Smuggler","the Sugar-Slinger","the Thunderclaw","the Tome Collector","the Trap Master","the Unconquered","the Wanderer","Thunderboots","Twitch-Tail"
+            ]
+        },
+        "NND_Female": {
+            "NND_Chance": 10,
+            "NND_Names": [
+                "Ashenfur",
+                "Bark-Scraper","Basement-Dweller","Black-Paw","Blood-Fangs","Broketooth","Burnscar",
+                "Cleverclaws","Crazy Eye","Curled-Paw",
+                "Damp-Tail","Dancer","Dawnwalker","Dawnwhisker","Dog-Bite-Me","Dusk Singer",
+                "Elf-Biter","Ember","Eye-Fly",
+                "Fancy-Fur","Fast-Claw","Feathers","Fishcatcher",
+                "Gnaws-on-Tail","Goldfang",
+                "Herbsniffer",
+                "Iron-Ear",
+                "Kha","Kink-Tail",
+                "Long-Tale",
+                "Madame Bellyscratch","Moon-Draughts","Moonclimber","Mouse",
+                "Nightseer","Nineclaws","Noisy-Hunter",
+                "Oak-Eye","of the Silver Claw",
+                "Shadow-Claws","Sharp-Tongue","Sharpclaw","Shifty Eyes","Silent-Cry","Silversteel","Silvertongue","Skyward-Eyes","Sleek-Fur","Smallpaws","Soft-Fur","Softpurr","Spot Nose","Sugar-Claws","Sugar-Lips","Sugarbreath",
+                "the Agile","the Alarmist","the Ascendant","the Beachwalker","the Bold","the Boneweaver","the Broker","the Bull","the Bulwark","the Cannibal King","the Chipper","the Chopper","the Clean","the Dangerous","the Equivocal","the Forgotten","the Graveprowler","the Iron Hearted","the Irreverent","the Keeneye","the Liar","the Magnificent","the Moonstruck","the Overcautious","the Peeler","the Ratcatcher","the Reaper","the Short","the Shrine Keeper","the Sibilant","the Sleek","the Smuggler","the Sugar-Slinger","the Thunderclaw","the Tome Collector","the Trap Master","the Unconquered","the Wanderer","Thunderboots","Twice Ready","Twice-Lucky",
+                "Uncomfortable-at-Sea",
+                "Wet-Whiskers","Wheelbreaker","Windsinger","Wrong One"
+            ]
+        }
+    }
+}
